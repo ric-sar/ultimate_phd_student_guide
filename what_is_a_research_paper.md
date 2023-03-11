@@ -17,10 +17,10 @@ Sometimes you can read preprints. Preprints are research paper that have not bee
 * [medRxiv](https://www.medrxiv.org/) for Health Sciences
 
 Take always into consideration Introduction and Related Works sections of each research paper, you can easily find fundamentals and state-of-the-art research papers already known. Alternatively, you can use AI-powered research tools which scan the internet and find related research papers:
-* [SemanticScholar](https://www.semanticscholar.org/): find relevant research and give you a short summary of the objective and results of a paper;
-* [ConnectedPapers](https://www.connectedpapers.com/): create a graph by analyzing similarities among research papers;
-* [ResearchRabbit.ai](https://www.researchrabbit.ai/): is a citation-based literature mapping tool.
-* [Litmaps](https://www.litmaps.com/): is a discovery app based on automated citation searching.
+* [SemanticScholar](https://www.semanticscholar.org/): Find relevant research and give you a short summary of the objective and results of a paper;
+* [ConnectedPapers](https://www.connectedpapers.com/): Create a graph by analyzing similarities among research papers;
+* [ResearchRabbit.ai](https://www.researchrabbit.ai/): Is a citation-based literature mapping tool.
+* [Litmaps](https://www.litmaps.com/): Is a discovery app based on automated citation searching.
 
 But sometimes you need to work on patents, here a list of patent search engines:
 * [Google Patents](https://patents.google.com/)
@@ -92,13 +92,13 @@ For instance, as a Zotero user, these are the main steps I do to summarize a res
 6. Re-arrange the plain-text or Markdown to the preferred note-taking tool.
 
 Here a list of note-taking tools you can use to create knowledge base:
-* [Zettlr](https://www.zettlr.com/) is a markdown editor with Zettelkasten method in mind with full Zotero support.
-* [RoamResearch](https://roamresearch.com/) is a note-taking app based on graph database.
-* [logseq](https://logseq.com/) is an open-source privacy first note-taking app with Project Management features in mind.
-* [Polar](https://getpolarized.io/) is (an early access) cross-platform reading environment to annotate, connect thoughts, create flashcards, and track progress.
-* [RemNote](https://www.remnote.com/) is note-taking tool with powers, you can create flashcards, annotate PDFs, create backlinks to help you study, stay organized, and think. The free version allows you to annotate only 3 PDFs, make 2 Knowledge Bases and attach 5 Image Occlusion Cards but it can be synchronized among all your devices.
-* [Obsidian](https://obsidian.md/) is a powerfull cross-platform tool offline and Markdown-based for create Knowledge Base. You can create backlinks among pages and also have a graph view of all your connections. Syncrhonization among devices is not free (although you can sync the Obsidian folder with any cloud service) and premium version will give you only support and access to the dev channel.
-* [Notion](https://www.notion.so/) has been previously cited for task and time management but it can be also used to create Knowledge Base via the Wiki and extend them with all its features. There are not particular issues with the free version, the only issue is related to the fact that is an online tool.
+* [Zettlr](https://www.zettlr.com/): Is a markdown editor with Zettelkasten method in mind with full Zotero support;
+* [RoamResearch](https://roamresearch.com/): Is a note-taking app based on graph database;
+* [logseq](https://logseq.com/): Is an open-source privacy first note-taking app with Project Management features in mind;
+* [Polar](https://getpolarized.io/): Is (an early access) cross-platform reading environment to annotate, connect thoughts, create flashcards, and track progress;
+* [RemNote](https://www.remnote.com/): Is note-taking tool with powers, you can create flashcards, annotate PDFs, create backlinks to help you study, stay organized, and think. The free version allows you to annotate only 3 PDFs, make 2 Knowledge Bases and attach 5 Image Occlusion Cards but it can be synchronized among all your devices;
+* [Obsidian](https://obsidian.md/): Is a powerfull cross-platform tool offline and Markdown-based for create Knowledge Base. You can create backlinks among pages and also have a graph view of all your connections. Syncrhonization among devices is not free (although you can sync the Obsidian folder with any cloud service) and premium version will give you only support and access to the dev channel;
+* [Notion](https://www.notion.so/): Has been previously cited for task and time management but it can be also used to create Knowledge Base via the Wiki and extend them with all its features. There are not particular issues with the free version, the only issue is related to the fact that is an online tool.
 
 Worth to mention the most famous Word processor [Microsoft Word](https://www.microsoft.com/en-us/microsoft-365/word) and open-source alternatives [OpenOffice](https://www.openoffice.org/) and [LibreOffice](https://www.libreoffice.org/).
 

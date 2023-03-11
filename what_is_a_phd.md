@@ -21,7 +21,7 @@ So, what to expect from a PhD? If you are eager to know or know more, a fast rea
 Finding a PhD is not an easy task, especially to whom want to be an expert in a very niche domain.
 
 The main way to find a PhD is through reference. Usually your thesis supervisor at Bachelor or Master Degree can help in the process by providing a nice cover letter to the chosen university. Also, having potential advisors may help to join in a specific lab or school.
-Alternatively, you can look bt yourself on top universities websites (take a look at [QS University ranking](https://www.topuniversities.com/university-rankings) which list all their PhDs position with application guidelines and (usually yearly) deadlines.
+Alternatively, you can look bt yourself on top universities websites (take a look at [QS University ranking](https://www.topuniversities.com/university-rankings)) which list all their PhDs position with application guidelines and (usually yearly) deadlines.
 Some portals to look for PhD courses exist but they do not list every PhD.
 Here you a list of portals to look for:
 * [Find A PhD](https://www.findaphd.com/phds/)

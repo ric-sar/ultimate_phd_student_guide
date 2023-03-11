@@ -2,10 +2,10 @@
 You started your PhD journey, reading and writing papers, joining conferences and so on. Although you will not continue with an academic job it is important to track all your work since the beginning.
 
 I recommend to you to subscribe to this services, which automatically tracks your research submissions:
-* [Open Researcher and Contributor ID (ORCID)](https://orcid.org/) is a global, not-for-profit organization that ensure you get credit for your contributions by using a Unique ID.
-* [Google Scholar](https://scholar.google.com/) is the web search engine related to scholarly literature, it indexes metadata of peer-reviewed journals, books, conference papers, and so on. 
-* [Scopus](https://www.scopus.com/home.uri) is a database for abstract and citation of peer-reviewed literature.
-* [ResearchGate](https://www.researchgate.net/) is social network for scientists and researchers to share papers, ask questions and find collaborators.
+* [Open Researcher and Contributor ID (ORCID)](https://orcid.org/): Is a global, not-for-profit organization that ensure you get credit for your contributions by using a Unique ID.
+* [Google Scholar](https://scholar.google.com/): Is the web search engine related to scholarly literature, it indexes metadata of peer-reviewed journals, books, conference papers, and so on. 
+* [Scopus](https://www.scopus.com/home.uri): Is a database for abstract and citation of peer-reviewed literature.
+* [ResearchGate](https://www.researchgate.net/): Is social network for scientists and researchers to share papers, ask questions and find collaborators.
 
 Some researcher have a personal website (like a blog or portfolio) to share their academic goals and research papers. These website could be hosted on University website or on their own on [GitHub Pages](https://pages.github.com/) with academic templates like: [al-folio](https://github.com/alshedivat/al-folio), [academicpages](https://github.com/academicpages/academicpages.github.io) or [barks](https://github.com/timothygebhard/barks).
 

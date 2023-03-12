@@ -19,6 +19,6 @@ Usually, conferences are not easy to rank and they are ranked in Tiers, a Tier A
 ---
 <div align="center">
 <a href='https://github.com/ric-sar/ultimate_phd_student_guide'>:house: Table of contents</a> | 
-<a href='https://github.com/ric-sar/ultimate_phd_student_guide/blob/main/task_and_time_management.md'>:arrow_backward: Task and time management</a> |
+<a href='https://github.com/ric-sar/ultimate_phd_student_guide/blob/main/tasks_and_time_management.md'>:arrow_backward: Tasks and time management</a> |
 <a href='https://github.com/ric-sar/ultimate_phd_student_guide/blob/main/what_is_a_research_paper.md'>What is a research paper :arrow_forward:</a>
 </div>

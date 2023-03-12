@@ -1,4 +1,4 @@
-# Task and time management
+# Tasks and time management
 How do you manage your task and time during a PhD?
 Well, nowadays there are ton of tools you can use, from calendars to all-around platforms to master project management skills.
 

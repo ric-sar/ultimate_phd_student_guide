@@ -9,7 +9,7 @@
   * [How to find a PhD](https://github.com/ric-sar/ultimate_phd_student_guide/blob/main/what_is_a_phd.md#how-to-find-a-phd)
   * [Research proposal](https://github.com/ric-sar/ultimate_phd_student_guide/blob/main/what_is_a_phd.md#research-proposal)
   * [Rights and duties](https://github.com/ric-sar/ultimate_phd_student_guide/blob/main/what_is_a_phd.md#rights-and-duties)
-- [Task and time management](https://github.com/ric-sar/ultimate_phd_student_guide/blob/main/task_and_time_management.md)
+- [Tasks and time management](https://github.com/ric-sar/ultimate_phd_student_guide/blob/main/tasks_and_time_management.md)
 - [Conferences and Journals](https://github.com/ric-sar/ultimate_phd_student_guide/blob/main/conferences_and_journals.md)
   * [Measuring research impact](https://github.com/ric-sar/ultimate_phd_student_guide/blob/main/conferences_and_journals.md#measuring-research-impact)
 - [What is a research paper](https://github.com/ric-sar/ultimate_phd_student_guide/blob/main/what_is_a_research_paper.md)

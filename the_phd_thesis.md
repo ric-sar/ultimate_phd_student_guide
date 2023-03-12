@@ -1,13 +1,15 @@
 # The PhD Thesis
-As you have written research papers during your journey, now it's the time to link all together to fight the final boss: The PhD Thesis!
+As you have written research papers during your journey, now it's the time to link everything together to fight the final boss: The PhD Thesis!
 
-First and foremost I suggest you to **SAVE AND MAKE BACKUPS** of your work, although now you should be a LaTeX master with all your documents synced on your preferred Reference Manager and your notes on your favourite note-taking app.
+First and foremost I would like to suggest you to **SAVE AND MAKE BACKUPS** of your work, although now you should be a LaTeX master with all your documents synced on your preferred reference manager and your notes on your favourite note-taking app.
 
-We can takle the PhD thesis from two points of view:
-1. Start writing your PhD thesis from the beginning, i.e., from your first published paper, **ONLY IF YOU THINK THAT YOUR RESEARCH PROPOSAL WILL BE AFFECTED BY MINOR CHANGES** during the PhD course;
-2. Write the thesis almost at the end of the PhD, which means **AT LEAST 6 MONTHS FROM THE GRADUATION DAY**.
+The PhD thesis can be tackled from two ways, by start writing:
+1. Since the beginning, i.e., from your first published paper, **ONLY IF YOU THINK THAT YOUR RESEARCH PROPOSAL WILL BE AFFECTED BY MINOR CHANGES** during the PhD course;
+2. Almost at the end of the PhD, which means **AT LEAST 6 MONTHS FROM THE GRADUATION DAY**.
 
-These two approaches are quite different because they are based on the main assumption that you really know what research are you carrying on. Although that, the PhD thesis can be seen as a very long summary of all your research activity, it can be organized as a very long research paper with more or less the same structure:
+These two approaches are quite different because they are based on the main assumption that you really know what research are you carrying on.
+
+Although that, the PhD thesis can be seen as a very long summary of all your research activity, it can be organized as a very long research paper with more or less the same structure:
 1. Title 
 2. Abstract
 3. Introduction
@@ -18,7 +20,9 @@ These two approaches are quite different because they are based on the main assu
 8. Acknowledgments
 9. Bibliography
 
-Rather than submitting your work to reviewers of journals or conference, in this case your PhD thesis will be reviewd by a PhD committee that evaluate how good is your work and if you are admitted to the defense. Actually, the committee and this process may vary by departments/universities/countries.
+Rather than submitting your work to reviewers of journals or conference, in this case your PhD thesis will be reviewed by a PhD committee that evaluate how good is your work and if you are admitted to the defense. 
+
+**Please, note** that the committee and this process may vary by departments/universities/countries.
 
 **Recommended read**
 * [How to Write a PhD Thesis by Joe Wolf (University of New South Wales - Sydney)](https://www.phys.unsw.edu.au/~jw/thesis.html)

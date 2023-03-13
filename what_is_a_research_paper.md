@@ -162,7 +162,7 @@ Although banning is not the real solution to plagiarism problem or writing sh***
 
 ## How peer review works
 So, you have written your first research paper, find a proper journal, applied the template and followed the journal guidelines, now it's time to review your work!
-Paper review is based on peer review process, after uploading your draft to the journal's portal, a set of experts (peers) in the research paper domain will review your draft.
+Paper review is based on peer review process, after uploading your draft to the journal or conference website, a set of experts (peers) in the research paper domain will review your draft.
 Review can be divided in:
 * Single blind: experts will know authors name, this may induce biases
 * Double blind: both experts and authors are unknown, this process will avoid biases at all.
@@ -172,11 +172,11 @@ Journals' policy give to experts a pre-determined time to carry out their decisi
 * Acceptable with (major or minor) revisions 
 * Rejected
 
-Authors after received decisions will answer to all the questions carried out by reviewers and propose a new draft with all the applied changes (usually authors deliver two drafts, one with highlighted changes and one without to help peers to easily spot changes).
+Authors after having received decisions will answer to all the questions carried out by reviewers and propose a new draft with all the applied changes (usually authors deliver two drafts, one with highlighted changes and one without to help peers to easily spot changes).
 
 Depending on the journal's policy the review process can last many weeks or months and sometimes authors are allowed only to propose changes once before a complete reject decision (this may happen in case of major revision and unsatisfactory provided changes and answers).
 
-But what actually peers look when doing a review?
+But what actually peers look during a review?
 
 Empirically, experienced peers due to their domain knowledge will first look at:
 * Materials and methods
@@ -191,7 +191,7 @@ While, non-experienced reviewers will take a look at the whole research paper, t
 * Materials and methods
 * Discussion and results
 
-Knowing this different approach in experienced and non-experience peers, the work of a good journal's editor is to find a good trade-off within reviewers and they will usually choose three reviewers with a high domain knowledge, medium knowledge and almost no experience in peer review.
+Knowing these two different approaches in experienced and non-experience peers, the work of a good journal's editor is to find a good trade-off within reviewers and they will usually choose three reviewers basically with a high domain knowledge, medium knowledge and almost no experience in peer review.
 
 Remember that being a reviewer will help you to improve writing by spotting errors before submitting a work. Also, this will gain some experience in fast reading and increase your domain knowledge.
 

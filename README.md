@@ -9,6 +9,7 @@
   * [How to find a PhD](https://github.com/ric-sar/ultimate_phd_student_guide/blob/main/what_is_a_phd.md#how-to-find-a-phd)
   * [Research proposal](https://github.com/ric-sar/ultimate_phd_student_guide/blob/main/what_is_a_phd.md#research-proposal)
   * [Rights and duties](https://github.com/ric-sar/ultimate_phd_student_guide/blob/main/what_is_a_phd.md#rights-and-duties)
+  * [Attrition rate aka dropout](https://github.com/ric-sar/ultimate_phd_student_guide/blob/main/what_is_a_phd.md#attrition-rate-aka-dropout)
 - [Tasks and time management](https://github.com/ric-sar/ultimate_phd_student_guide/blob/main/tasks_and_time_management.md)
 - [Conferences and Journals](https://github.com/ric-sar/ultimate_phd_student_guide/blob/main/conferences_and_journals.md)
   * [Measuring research impact](https://github.com/ric-sar/ultimate_phd_student_guide/blob/main/conferences_and_journals.md#measuring-research-impact)

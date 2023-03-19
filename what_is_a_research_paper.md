@@ -201,6 +201,19 @@ Last but not least, review process is voluntary based, this means that peers hav
 * Data: proposing a work without data, or closed data or by cherrypicking is not a good idea
 * Clarity: this is mainly related to non english speakers, they need to improve and check the grammar
 
+The following scheme summarizes how paper review works, starting from:
+1. The authors' submission;
+2. Editor in chief (EIC) makes a small review to understand if the submssion meets the minimum requirements;
+3. EIC starts discussing with the Editorial Board before rejecting for lack of technical substance (Pre-screen);
+4. If the submission satisfies the mininum requirements and has some techincal substance it is assigned to the Associate Editor (AE);
+5. The Associate Editor (AE) selects the reviewers among the ones without conflicts of interest;
+6. Reviewers make the reviews along with comments and recommendations (their decision to: reject, accept or accept with minor/major revisions);
+7. Associate Editor (AE) issues the reccomendations along with reviewers' comments to make the final decision (reject, accept or accept with minor/major revisions)
+8. Depending on the decision, authors can review their work for further submission (it depends on the journal policy) or submit the final work if the paper has been accepted without revision.
+
+![paper_review_process](https://user-images.githubusercontent.com/82369153/226196231-f4ffd4aa-49e6-4a93-a06f-7ba4fcf5399a.png)
+
+
 **Recommended read**
 * [How to write a quality technical paper and where to publish within IEEE by University of Liverpool](https://www.slideshare.net/LivUniLibrary/researcher-knowhow-getting-published-with-ieee)
 * [Reviewing Papers: A Student Guide by Robin Murphy](https://sites.cs.ucsb.edu/~ebelding/courses/284/papers/ReviewingPapersStudentGuide.html)

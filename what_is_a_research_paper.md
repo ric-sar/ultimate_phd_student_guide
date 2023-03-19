@@ -211,7 +211,7 @@ The following scheme summarizes how paper review works, starting from:
 7. Associate Editor (AE) issues the reccomendations along with reviewers' comments to make the final decision (reject, accept or accept with minor/major revisions)
 8. Depending on the decision, authors can review their work for further submission (it depends on the journal policy) or submit the final work if the paper has been accepted without revision.
 
-![paper_review_process](https://user-images.githubusercontent.com/82369153/226196231-f4ffd4aa-49e6-4a93-a06f-7ba4fcf5399a.png)
+![paper_review_process](https://user-images.githubusercontent.com/82369153/226197864-b0539927-1830-46cd-be62-e6e5062fe0cf.png)
 
 
 **Recommended read**

@@ -217,6 +217,7 @@ The following scheme summarizes how paper review works, starting from:
 **Recommended read**
 * [How to write a quality technical paper and where to publish within IEEE by University of Liverpool](https://www.slideshare.net/LivUniLibrary/researcher-knowhow-getting-published-with-ieee)
 * [Reviewing Papers: A Student Guide by Robin Murphy](https://sites.cs.ucsb.edu/~ebelding/courses/284/papers/ReviewingPapersStudentGuide.html)
+* [IEEE Editor-in-Chief Peer Review Responsibilities](https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/Peer-Review-Policies-for-the-Editor.pdf)
 
 ### Plagiarism and ChatGPT detector
 Editors apply a plagiarism detector to the submitted materials. Usually large editors (such as IEEE or Elsevier) use [Similarity Check by Crossref and iThenticate](https://www.crossref.org/services/similarity-check/).

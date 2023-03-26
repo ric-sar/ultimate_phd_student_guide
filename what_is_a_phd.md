@@ -1,8 +1,12 @@
 # What is a PhD
 PhD stands for **Ph**ilosophiae **D**octor in latin or most commonly Doctor of Philosofy and it is the highest level of academic qualification. The main goal of PhD is to do research in a specific topic trying to make some research advance.
 
+According to [OECD](https://www.oecd.org/) the average share of 25-34 year-olds with a tertiary qualification increased from 27% in 2000 to 48% in 2021 across OECD countries among the range of 25-34 year-olds.
+
 **Recommended read**
+* [Educational at a glance 2022 - OECD Report](https://www.oecd.org/education/education-at-a-glance/)
 * [100 Years of the PhD in the UK](https://discovery.ucl.ac.uk/id/eprint/10068565/)
+
 
 ## Why you should do a PhD
 If you have found and actually reading this repository means that you should be interested in doing a PhD. From a student point of view this is not an ordinary degree qualification, it can be seen as an ambitious goal to make the difference in science by producing research and defend the final dissertation of your studies.
@@ -16,6 +20,7 @@ To understand if you are really interested in we can make some assumptions on wh
 To summarize, if your first concern is to make money and having a good work-life balance maybe PhD is not for you.
 
 So, what to expect from a PhD? If you are eager to know or know more, a fast reader, an ambitious and stubborn thinking head coupled with luck and **vocation** to teach, maybe you can start _thinking_ about enrolling in a PhD course.
+
 
 ## How to find a PhD
 Finding a PhD is not an easy task, especially to whom want to be an expert in a very niche domain.
@@ -36,6 +41,7 @@ PhD courses are different among countries, you can find PhD:
 * With companies or institutions;
 * With exchange research period among universities or research centers.
 
+
 ## Research proposal
 The research proposal is the key document to your PhD application. The research proposal should be structured _like_ a research paper (more information in [What is a research paper section](https://github.com/ric-sar/ultimate_phd_student_guide/blob/main/what_is_a_research_paper.md), it must contain:
 1. **Title**
@@ -50,6 +56,8 @@ The research proposal is not set in stone, changes, new approaches, more interes
 
 **Recommended read**
 * [How to write your research proposal by University of Westminister](https://www.westminster.ac.uk/study/postgraduate/research-degrees/entry-requirements/how-to-write-your-research-proposal)
+* [How to write a great research proposal by Microsoft](https://www.microsoft.com/en-us/research/academic-program/how-to-write-a-great-research-proposal/)
+
 
 ## Rights and duties
 As a PhD student you have time to explore and study new things but not everything that glitters is gold.
@@ -60,6 +68,7 @@ You will be commited to do many activities, such as:
 
 Ok, but what about PhD rights? As a student you will be extremely committed in research, you have the right to explore, read and do experiments.
 Sometimes students struggle to understand that having irregular work hours have the side effect of mental breakdowns, try to work no more than 40 hours/week, saving time to have an ordinary life, balancing your life and your research activities.
+
 
 ## Attrition rate aka dropout
 After this brief introduction maybe you have some interest in doing a PhD but pay attention to the attrition rate. The attrition rate is just a metric representing how many people drop the PhD course, there are many contrasting sources stating that attrition rate in US falls between 40-60%, others state less than 40% and so on.
@@ -79,6 +88,8 @@ If you need some confirmations about pursuing this path, apply for research-like
 **Recommended read**
 * [Who drops out of the Ph.D.? by A happy PhD](https://ahappyphd.org/posts/drop-out-phd/)
 * [My top PhD regrets: 10 lessons learned by a PhD grad by Thesavvyscientist](https://www.thesavvyscientist.com/phd-regrets/)
+* [Ten Lessons I wish I had been Taught by Gian-Carlo Rota](https://alumni.media.mit.edu/~cahn/life/gian-carlo-rota-10-lessons.html)
+* [A Survival Guide to a PhD by Andrej Karpathy](https://karpathy.github.io/2016/09/07/phd/)
 
 
 ---

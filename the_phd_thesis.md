@@ -20,6 +20,11 @@ Although that, the PhD thesis can be seen as a very long summary of all your res
 8. Acknowledgments
 9. Bibliography
 
+Here you can find a list of template:
+* [Cambridge](https://github.com/cambridge/thesis)
+* [MIT (Unofficial)](https://www.overleaf.com/latex/templates/mit-thesis-template/ytphktgwpktc)
+* [CUED](https://github.com/kks32/phd-thesis-template)
+
 Rather than submitting your work to reviewers of journals or conference, in this case your PhD thesis will be reviewed by a PhD committee that evaluate how good is your work and if you are admitted to the defense. 
 
 **Please, note** that the committee and this process may vary by departments/universities/countries.

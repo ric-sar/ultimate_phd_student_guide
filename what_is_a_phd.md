@@ -5,7 +5,6 @@ According to [OECD](https://www.oecd.org/) the average share of 25-34 year-olds 
 
 **Recommended read**
 * [Educational at a glance 2022 - OECD Report](https://www.oecd.org/education/education-at-a-glance/)
-* [100 Years of the PhD in the UK](https://discovery.ucl.ac.uk/id/eprint/10068565/)
 
 
 ## Why you should do a PhD

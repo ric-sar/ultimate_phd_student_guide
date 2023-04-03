@@ -1,7 +1,7 @@
 # What is a PhD
 PhD stands for **Ph**ilosophiae **D**octor in latin or most commonly Doctor of Philosofy and it is the highest level of academic qualification. The main goal of PhD is to do research in a specific topic trying to make some research advance.
 
-According to [OECD](https://www.oecd.org/) the average share of 25-34 year-olds with a tertiary qualification increased from 27% in 2000 to 48% in 2021 across OECD countries among the range of 25-34 year-olds.
+According to [OECD](https://www.oecd.org/) the average share of 25-34 year-olds with a tertiary qualification increased from 27% in 2000 to 48% in 2021 across OECD countries.
 
 **Recommended read**
 * [Educational at a glance 2022 - OECD Report](https://www.oecd.org/education/education-at-a-glance/)

@@ -58,7 +58,7 @@ The easiest way to read the paper is to start from the Abstract till the Conclus
 
 **Recommended video**
 * [How to read a paper efficiently by Prof. Pete Carr](https://www.youtube.com/watch?v=IeaD0ZaUJ3Y)
-* [Reading Research Papers by Andrew NG](https://www.youtube.com/watch?v=733m6qBH-jI).
+* [Reading Research Papers by Andrew NG](https://www.youtube.com/watch?v=733m6qBH-jI)
 
 To summarize the above recommended read and videos, the first things to read to have an overview of the paper are:
 1. Title will give you a fast information of the approach used and discussed in the paper, although sometimes it is only used as a clickbait;

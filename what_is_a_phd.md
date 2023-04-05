@@ -45,11 +45,11 @@ PhD courses are different among countries, you can find PhD:
 The research proposal is the key document to your PhD application. The research proposal should be structured _like_ a research paper (more information in [What is a research paper section](https://github.com/ric-sar/ultimate_phd_student_guide/blob/main/what_is_a_research_paper.md), it must contain:
 1. **Title**
 2. **Introduction** about the problem 
-3. **Literature review** how the problem has (not) been solved by previous authors
-4. **Research methodology** how to solve the problem, available methods and materials
-5. **Impact of innovation** the innovation introduced by your research
-6. **A provisional chart/schedule** plan about how you want to achive milestones during the journey
-7. **Bibliography** all the references used in the manuscript
+3. **Literature review** on how the problem has (not) been solved by previous authors
+4. **Research methodology** to solve the problem, available methods and materials
+5. **Impact of innovation** introduced by your research
+6. **A provisional chart/schedule** plan about how you want to achive milestones during the PhD journey
+7. **Bibliography** of all the references used in the manuscript
 
 The research proposal is not set in stone, changes, new approaches, more interesting topics will come out during years. Do not worry if you start with a topic and then this topic will be totally different at the end of the course.
 
@@ -61,8 +61,8 @@ The research proposal is not set in stone, changes, new approaches, more interes
 ## Rights and duties
 As a PhD student you have time to explore and study new things but not everything that glitters is gold.
 You will be commited to do many activities, such as:
-* Be a **teaching assistant**, will you able to teach? This is the gym of every professor wannabe, your communication skills will be tested;
-* **Helping students** in writing thesis, which usually consists in giving advice to in thesis writing and doing experiments
+* Be a **teaching assistant**, will you be able to teach? This is the gym of every professor wannabe, your communication skills will be tested;
+* **Helping students** in writing thesis, which usually consists in giving advices, reviews and doing experiments
 * **Deadlines**, no matter what you will be always late for conferences, journals, and... your life!
 
 Ok, but what about PhD rights? As a student you will be extremely committed in research, you have the right to explore, read and do experiments.

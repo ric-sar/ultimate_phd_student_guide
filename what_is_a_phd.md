@@ -26,7 +26,7 @@ Finding a PhD is not an easy task, especially to whom want to be an expert in a 
 
 The main way to find a PhD is through **reference**. Usually your thesis supervisor at Bachelor or Master Degree can help in the process by providing a nice cover letter to the chosen university. Also, having **potential advisors** may help to join in a specific lab or school.
 
-Alternatively, you can look bt yourself on top universities websites (take a look at [QS University ranking](https://www.topuniversities.com/university-rankings)) which list all their open PhD positions with application guidelines and (usually yearly) deadlines.
+Alternatively, you can look by yourself on top universities websites (take a look at [QS University ranking](https://www.topuniversities.com/university-rankings)) which list all their open PhD positions with application guidelines and (usually yearly) deadlines.
 Some portals to look for PhD courses exist but they do not list every PhD position.
 Here you a list of portals to look for:
 * [Find A PhD](https://www.findaphd.com/phds/)
@@ -61,7 +61,7 @@ The research proposal is not set in stone, changes, new approaches, more interes
 ## Rights and duties
 As a PhD student you have time to explore and study new things but not everything that glitters is gold.
 You will be commited to do many activities, such as:
-* Be a **teaching assistant**, will you able to teach? This is the gym of every professor wannabe. Your communication skills will be tested;
+* Be a **teaching assistant**, will you able to teach? This is the gym of every professor wannabe, your communication skills will be tested;
 * **Helping students** in writing thesis, which usually consists in giving advice to in thesis writing and doing experiments
 * **Deadlines**, no matter what you will be always late for conferences, journals, and... your life!
 

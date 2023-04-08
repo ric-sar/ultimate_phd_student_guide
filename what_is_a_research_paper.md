@@ -72,6 +72,11 @@ During the reading you will be able to highlight important parts. Highlighting g
 ## How to write a research paper
 You have understood how to read a paper, maybe you read a list of paper during weeks, gained domain knowledge, found an unexplored approach to start doing experiments and at this point of your journey you are ready to start writing your first research paper.
 
+**Recommended read**
+* [How to write a good CVPR submission](https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf)
+* [Notes on writing by Fredo Durand](https://people.csail.mit.edu/fredo/PUBLI/writing.pdf)
+* [How to write a (hopefully good) paper by Martin Vetterli](http://mri.beckman.illinois.edu/resources/good_paper.pdf)
+
 ### Reference manager
 This section is indeed intended to work as part of reading tasks, as you collect and read papers you can find stressful to manage them and, that's way reference manager exist.
 Among the reference managers, the most popular are:
@@ -218,6 +223,7 @@ The following scheme summarizes how paper review works, starting from:
 * [How to write a quality technical paper and where to publish within IEEE by University of Liverpool](https://www.slideshare.net/LivUniLibrary/researcher-knowhow-getting-published-with-ieee)
 * [Reviewing Papers: A Student Guide by Robin Murphy](https://sites.cs.ucsb.edu/~ebelding/courses/284/papers/ReviewingPapersStudentGuide.html)
 * [IEEE Editor-in-Chief Peer Review Responsibilities](https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/Peer-Review-Policies-for-the-Editor.pdf)
+* [How to be a good reviewer? Reviewer Tutorial for CVPR 2022](https://cvpr2022.thecvf.com/sites/default/files/2021-11/How%20to%20be%20a%20good%20reviewer-tutorials%20for%20cvpr2022%20reviewers.pptx.pdf)
 
 ### Plagiarism and ChatGPT detector
 Editors apply a plagiarism detector to the submitted materials. Usually large editors (such as IEEE or Elsevier) use [Similarity Check by Crossref and iThenticate](https://www.crossref.org/services/similarity-check/).

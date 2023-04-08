@@ -89,6 +89,8 @@ If you need some confirmations about pursuing this path, apply for research-like
 * [My top PhD regrets: 10 lessons learned by a PhD grad by Thesavvyscientist](https://www.thesavvyscientist.com/phd-regrets/)
 * [Ten Lessons I wish I had been Taught by Gian-Carlo Rota](https://alumni.media.mit.edu/~cahn/life/gian-carlo-rota-10-lessons.html)
 * [A Survival Guide to a PhD by Andrej Karpathy](https://karpathy.github.io/2016/09/07/phd/)
+* [“So long, and thanks for the Ph.D.!” by Ronald T. Azuma](https://www.cs.unc.edu/~azuma/hitch4.html)
+* [Collection of advice for prospective and current PhD students](https://github.com/pliang279/awesome-phd-advice)
 
 
 ---

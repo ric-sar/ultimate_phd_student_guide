@@ -109,6 +109,9 @@ Here a list of note-taking tools you can use to create knowledge base:
 
 Worth to mention the most famous Word processor [Microsoft Word](https://www.microsoft.com/en-us/microsoft-365/word) and open-source alternatives [OpenOffice](https://www.openoffice.org/) and [LibreOffice](https://www.libreoffice.org/).
 
+**Recommended read**
+* [Obsidian Tutorial for Academic Writing](https://betterhumans.pub/obsidian-tutorial-for-academic-writing-87b038060522)
+
 **Recommended video**
 * [Zettelkasten Note-Taking Method: Simply Explained by Shu Omi](https://www.youtube.com/watch?v=rOSZOCoqOo8) Introduction to Zettelkasten
 * [The FUN and EFFICIENT note-taking system I use in my PhD by morganeua](https://www.youtube.com/watch?v=L9SLlxaEEXY) A video about Zettelkasten method and Obsidian

@@ -77,6 +77,9 @@ You have understood how to read a paper, maybe you read a list of paper during w
 * [Notes on writing by Fredo Durand](https://people.csail.mit.edu/fredo/PUBLI/writing.pdf)
 * [How to write a (hopefully good) paper by Martin Vetterli](http://mri.beckman.illinois.edu/resources/good_paper.pdf)
 
+**Recommended video**
+* [How to Write a Great Research Paper by Prof. Simon Peyton Jones](https://www.youtube.com/watch?v=VEXaUHNmpQw)
+
 ### Reference manager
 This section is indeed intended to work as part of reading tasks, as you collect and read papers you can find stressful to manage them and, that's way reference manager exist.
 Among the reference managers, the most popular are:

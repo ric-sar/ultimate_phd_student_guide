@@ -17,7 +17,8 @@ Let's imagine that you want to know and understand how good an author is or how 
 * [i10-index](https://en.wikipedia.org/wiki/H-index) is the number of publications with at least 10 citations, mainly used by Google Scholar;
 * [G-Index](https://en.wikipedia.org/wiki/G-index) is the alternative to h-index and is calculated as "Given a set of articles ranked in decreasing order of the number of citations that authors received, the G-Index is the (unique) largest number such that the top _g_ articles received (together) at least $g^2$ citations."
 
-Some have criticized the h-index to quantify the impact of a scientist’s published work, I recommend to read ["The h-index is no longer an effective correlate of scientific reputation" by Vladlen Koltun and David Hafner](https://arxiv.org/abs/2102.03234).
+**Recommended read**
+* ["The h-index is no longer an effective correlate of scientific reputation" by Vladlen Koltun and David Hafner](https://arxiv.org/abs/2102.03234) - Critics about h-index to quantify the impact of a scientist’s published work
 
 ---
 <div align="center">

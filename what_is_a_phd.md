@@ -20,6 +20,9 @@ To summarize, if your first concern is to make money and having a good work-life
 
 So, what to expect from a PhD? If you are eager to know or know more, a fast reader, an ambitious and stubborn thinking head coupled with luck and **vocation** to teach, maybe you can start _thinking_ about enrolling in a PhD course.
 
+**Recommended read**
+* [How to do research by Prof. William T. Freeman](https://people.csail.mit.edu/billf/publications/How_To_Do_Research.pdf)
+
 
 ## How to find a PhD
 Finding a PhD is not an easy task, especially to whom want to be an expert in a very niche domain.

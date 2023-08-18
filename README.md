@@ -1,7 +1,8 @@
 <div align="center"><h1>:fire: The Ultimate PhD Student Guide :fire:</h1><br>
 <h4><b>DISCLAIMER: this is not a real guide, it is actually written by a not so good PhD Student as a personal reminder to improve himself</b></h4></div>
 
-![isaac_newton](https://user-images.githubusercontent.com/82369153/221364652-6ed3c7a6-1c88-4058-b81a-0c7db5f7e6b6.jpg)
+![isaac_newton](https://github.com/ric-sar/ultimate_phd_student_guide/assets/82369153/376fefca-6f04-4d4e-9d69-aac8dbe98927)
+
 
 **Table of contents**
 - [What is a PhD](https://github.com/ric-sar/ultimate_phd_student_guide/blob/main/what_is_a_phd.md)

@@ -94,6 +94,7 @@ If you need some confirmations about pursuing this path, apply for research-like
 * [A Survival Guide to a PhD by Andrej Karpathy](https://karpathy.github.io/2016/09/07/phd/)
 * [“So long, and thanks for the Ph.D.!” by Ronald T. Azuma](https://www.cs.unc.edu/~azuma/hitch4.html)
 * [Collection of advice for prospective and current PhD students](https://github.com/pliang279/awesome-phd-advice)
+* [Why doing a PhD is often a waste of time by The Economist](https://medium.economist.com/why-doing-a-phd-is-often-a-waste-of-time-349206f9addb)
 
 
 ---

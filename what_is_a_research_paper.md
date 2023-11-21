@@ -220,7 +220,7 @@ The following scheme summarizes how paper review works, starting from:
 5. The Associate Editor (AE) selects the reviewers among the ones without conflicts of interest;
 6. Reviewers make the reviews along with comments and recommendations (their decision to: reject, accept or accept with minor/major revisions);
 7. Associate Editor (AE) issues the reccomendations along with reviewers' comments to make the final decision (reject, accept or accept with minor/major revisions)
-8. Depending on the decision, authors can review their work for further submission (it depends on the journal policy) or submit the final work if the paper has been accepted without revision.
+8. Depending on the decision, authors can review their work for further submission (**rebuttal** depends on the journal policy) or submit the final work if the paper has been accepted without revision.
 
 ![paper_review_process](https://user-images.githubusercontent.com/82369153/226197864-b0539927-1830-46cd-be62-e6e5062fe0cf.png)
 
@@ -230,6 +230,7 @@ The following scheme summarizes how paper review works, starting from:
 * [Reviewing Papers: A Student Guide by Robin Murphy](https://sites.cs.ucsb.edu/~ebelding/courses/284/papers/ReviewingPapersStudentGuide.html)
 * [IEEE Editor-in-Chief Peer Review Responsibilities](https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/Peer-Review-Policies-for-the-Editor.pdf)
 * [How to be a good reviewer? Reviewer Tutorial for CVPR 2022](https://cvpr2022.thecvf.com/sites/default/files/2021-11/How%20to%20be%20a%20good%20reviewer-tutorials%20for%20cvpr2022%20reviewers.pptx.pdf)
+* [How to write a Rebuttal Letter by peerj](https://peerj.com/benefits/academic-rebuttal-letters/)
 
 ### Plagiarism and ChatGPT detector
 Editors apply a plagiarism detector to the submitted materials. Usually large editors (such as IEEE or Elsevier) use [Similarity Check by Crossref and iThenticate](https://www.crossref.org/services/similarity-check/).

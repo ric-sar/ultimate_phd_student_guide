@@ -34,6 +34,7 @@ Some portals to look for PhD courses exist but they do not list every PhD positi
 Here you a list of portals to look for:
 * [Find A PhD](https://www.findaphd.com/phds/)
 * [PhD Portal](https://www.phdportal.com/)
+* [LinkedIn](https://www.linkedin.com/): meant as a professional social network, you can follow Professors or Labs on LinkedIn which usually posts open PhD positions (or post-docs)
 
 Last but not least, having some publications and a good background (i.e., good universities with high GPA) can help during the application.
 

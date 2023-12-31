@@ -9,21 +9,40 @@ The PhD thesis can be tackled from two ways, by start writing:
 
 These two approaches are quite different because they are based on the main assumption that you really know what research are you carrying on.
 
-Although that, the PhD thesis can be seen as a very long summary of all your research activity, it can be organized as a very long research paper with more or less the same structure:
-1. Title 
-2. Abstract
-3. Introduction
-4. Literature review (or Related works)
-5. Materials and Methods
-6. Results and discussion
-7. Conclusion and suggestions for further work
-8. Acknowledgments
-9. Bibliography
+Although that, the PhD thesis can be seen as a very long summary of all your research activity. The PhD thesis can be organized in many parts divided as such:
+
+**1. Title**
+
+**2. Acknowledgements**
+
+**3. Introduction**
+  * In which you will write about the motivations, objectives and background related to the PhD thesis object.
+
+**4. Main object(s)**
+  * All the work done during the PhD course which means organized paper presentations. Each paper will be a sub-section with the ordinary paper structure:
+  1. Title (Paper title)
+  2. Motivation
+  3. Related works
+  4. Materials and Methods
+  5. Results
+  6. Discussion
+  7. Publications
+     
+**5. Conclusion**
+  * General conclusion of the PhD thesis
+  
+**6. Bibliography**
+  * General bibliography of the PhD thesis, also contains the papers' bibliography
+
+**7. Appendix**
+
+---
 
 Here you can find a list of template:
 * [Cambridge](https://github.com/cambridge/thesis)
 * [MIT (Unofficial)](https://www.overleaf.com/latex/templates/mit-thesis-template/ytphktgwpktc)
 * [CUED](https://github.com/kks32/phd-thesis-template)
+* [Template for a Masters or Doctoral Thesis by LaTeXTemplates](https://www.overleaf.com/latex/templates/template-for-a-masters-slash-doctoral-thesis/mkzrzktcbzfl)
 
 Rather than submitting your work to reviewers of journals or conference, in this case your PhD thesis will be reviewed by a PhD committee that evaluate how good is your work and if you are admitted to the defense. 
 
